@@ -82,13 +82,19 @@ Projects developed through hackathons and technical challenges, focusing on buil
 🏅 **Bachelor of Technology (B.Tech) Candidate — St. Joseph's College of Engineering**  
 🚀 **Foundational Track:** Currently building strong foundations in AI/ML, Python Programming, Machine Learning, and intelligent systems while working toward relevant industry certifications.
 
-### 📊 GitHub Activity & Metrics
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annaprincy&show_icons=true&theme=transparent" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annaprincy-ai-lab&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaprincy&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annaprincy-ai-lab&layout=compact&theme=transparent)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=annaprincy&theme=transparent" alt="GitHub Streak" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=annaprincy-ai-lab&theme=transparent)
 ### 📬 Connect With Me
 Let's collaborate on baseline coding repositories or discuss emerging consumer microprocessors and chip layout engineering! Reach out via LinkedIn or drop a direct inquiry at annaprincy2008@gmail.com
